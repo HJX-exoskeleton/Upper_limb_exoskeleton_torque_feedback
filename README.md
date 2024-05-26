@@ -61,3 +61,5 @@ Figure(experiment):
 ![1](https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/assets/156507453/16e6d501-ab6b-4ddd-b9a5-30ffdb062608)
 ![image](https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/assets/156507453/3e232c8c-4416-4768-b22c-74958313cea4)
 
+Citation: 
+If you find my code useful for your research, please cite my github repository.
