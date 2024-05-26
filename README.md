@@ -4,19 +4,27 @@ ULETF: elbow torque feedback -- dual motor direct drive
 给出相关的实验数据、三维模型、硬件部分与代码：
 
 Data：
+
 EMG:
+
 Naive data:
+
 OFF-EXO: 
+
 https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/blob/master/data/EMG/OFF-EXO/off-exo_naive.txt
 
 ON-EXO: 
+
 https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/blob/master/data/EMG/ON-EXO/on-exo_naive.txt
 
 The processed data:
+
 OFF-EXO: 
+
 https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/blob/master/data/EMG/OFF-EXO/off-exo_conversion.xlsx
 
 ON-EXO:
+
 https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/blob/master/data/EMG/ON-EXO/on-exo_conversion.xlsx
 
 OFF-EXO emg envelope:
@@ -39,6 +47,7 @@ SimpleFOC控制板(Simple103)/5008无刷电机/2804云台电机
 ![image](https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/assets/156507453/b49bbb99-9c64-474e-b544-16193065b632)
 
 Code:
+
 control: 
 https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/tree/master/code/control/HapticControl_5008%2B2804
 
@@ -48,7 +57,7 @@ https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/tree/m
 imu: 
 https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/tree/master/code/imu
 
-Figure:
+Figure(experiment):
 ![1](https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/assets/156507453/16e6d501-ab6b-4ddd-b9a5-30ffdb062608)
 ![image](https://github.com/HJX-exoskeleton/Upper_limb_exoskeleton_torque_feedback/assets/156507453/3e232c8c-4416-4768-b22c-74958313cea4)
 
